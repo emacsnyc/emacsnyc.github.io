@@ -1,0 +1,5 @@
+pygments: true
+lsi: false
+safe: true
+poole:
+  word_separator: "-"
