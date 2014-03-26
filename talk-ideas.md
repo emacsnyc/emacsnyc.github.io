@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (emacs-nyc)
+title: (emacs-nyc talks)
 ---
 
 ### Ideas for Talks
@@ -33,3 +33,4 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * Blogging with `org-mode`
 * Managing packages with Cask and Pallet
 * "How I use Emacs with \[my language of choice\]"
+* AUCTeX
