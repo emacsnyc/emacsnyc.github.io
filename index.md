@@ -25,8 +25,11 @@ Ideally, we'll all get together once a month or so, listen to a talk, eat some p
 
 Interested in giving a talk? Perfect, we're looking for speakers! If you have an idea for a talk that the Emacs community would enjoy, let us know! Whether you're re-implementing the elisp garbage collector or you've just got a cool workflow in Org, we'd love to hear from you. Shoot us an [email]!
 
+If you'd like to give a talk, but aren't sure what to talk about, we've got a few [suggestions].
+
 [Harry]: http://harryrschwartz.com
 [Eric]: http://www.tabfugni.cc
 [thoughtbot]: http://thoughtbot.com
 [defunct]: http://www.meetup.com/Emacs-NYC/
 [email]: mailto:admin@emacsnyc.org
+[suggestions]: /talk-ideas.html
