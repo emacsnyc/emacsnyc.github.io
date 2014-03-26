@@ -1,11 +1,15 @@
 ---
 layout: default
-title: (emacs-nyc talks)
+title: (emacs-nyc giving a talk)
 ---
 
-### Ideas for Talks
+### Wanna give a talk?
 
-Sometimes people are interested in giving a talk, but don't know what to talk *about.* If you're in that category, we've got a few suggestions:
+Interested in giving a talk? Perfect, we're looking for speakers! If you have an idea for a talk that the Emacs community would enjoy, let us know! Whether you're re-implementing the elisp garbage collector or you've just got a cool workflow in Org, we'd love to hear from you. Shoot us an [email] and we'll get you scheduled!
+
+If you have any particular requirements or preferences, we'll do our best to satisfy them. This should be fun!
+
+Sometimes people are interested in giving a talk, but don't know what to talk *about.* If you're in that category, we've got a few suggestions for topics we'd love to learn about:
 
 * Demystifying terminal emulation: `shell` vs `term` vs `ansi-term` vs `eshell`
 * Chatting with IRC through `erc`
@@ -34,3 +38,5 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * Managing packages with Cask and Pallet
 * "How I use Emacs with \[my language of choice\]"
 * AUCTeX
+
+[email]: mailto:admin@emacsnyc.org
