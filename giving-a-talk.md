@@ -38,5 +38,6 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * Managing packages with Cask and Pallet
 * "How I use Emacs with \[my language of choice\]"
 * AUCTeX
+* Emacspeak
 
 [email]: mailto:admin@emacsnyc.org
