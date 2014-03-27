@@ -39,5 +39,6 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * "How I use Emacs with \[my language of choice\]"
 * AUCTeX
 * Emacspeak
+* Remote pairing with Emacs
 
 [email]: mailto:admin@emacsnyc.org
