@@ -3,9 +3,7 @@ layout: default
 title: (emacs-nyc)
 ---
 
-### New York Emacs Meetup
-
-We're the Emacs meetup in NYC!
+### We're the Emacs meetup in NYC!
 
 We get together once a month or so (we're currently aiming for the first Monday of the month). We have some pizza and drinks and listen to an Emacs-related talk or two. Fun times are had by all.
 

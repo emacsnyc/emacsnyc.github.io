@@ -5,7 +5,7 @@ title: (emacs-nyc giving a talk)
 
 ### Wanna give a talk?
 
-Interested in giving a talk? Perfect, we're looking for speakers! If you have an idea for a talk that the Emacs community would enjoy, let us know! Whether you're re-implementing the elisp garbage collector or you've just got a cool workflow in Org, we'd love to hear from you. Shoot us an [email] and we'll get you scheduled!
+Perfect, we're looking for speakers! If you have an idea for a talk that the Emacs community would enjoy, let us know! Whether you're re-implementing the elisp garbage collector or you've just got a cool workflow in Org, we'd love to hear from you. Shoot us an [email] and we'll get you scheduled!
 
 If you have any particular requirements or preferences, we'll do our best to satisfy them. This should be fun!
 
