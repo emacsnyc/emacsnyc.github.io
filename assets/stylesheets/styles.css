@@ -204,8 +204,10 @@ footer {
     padding: 15px;
   }
 
-  header ul {
-    display: none;
+  header .nav li {
+    float: none;
+    padding: 3px 10px 3px 10px;
+    border: none;
   }
 }
 
