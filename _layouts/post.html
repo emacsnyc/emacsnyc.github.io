@@ -3,5 +3,13 @@ layout: default
 ---
 
 <h3>{{ page.title }}</h3>
-<p>{{ page.date | date_to_string }}</p>
+
+{% if page.scheduled %}
+{% include time_and_place.html %}
+{% endif %}
+
 {{ content }}
+
+{% if page.scheduled %}
+<p>Free pizza and beer are courtesy of <a href="http://thoughtbot.com">thoughtbot</a>.</p>
+{% endif %}
