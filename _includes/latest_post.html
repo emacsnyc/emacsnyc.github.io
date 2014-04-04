@@ -1,0 +1,14 @@
+{% assign latest_post = site.posts | first %}
+
+{% if latest_post.scheduled %}
+<p>
+  Next event:
+  <a href="{{ BASE_PATH }}{{ post.url }}">{{ latest_post.title }}</a>,
+  {{ latest_post.scheduled | date_to_string }}
+</p>
+{% else %}
+<p>
+  Latest announcement:
+  <a href="{{ BASE_PATH }}{{ post.url }}">{{ latest_post.title }}</a>
+</p>
+{% endif %}

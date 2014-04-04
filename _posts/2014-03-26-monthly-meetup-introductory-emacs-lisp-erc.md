@@ -2,6 +2,7 @@
 title: Monthly Meetup&mdash;Introductory Emacs Lisp & ERC
 layout: post
 date: 2014-03-26 10:27
+scheduled: 2014-04-07 19:00
 ---
 
 **Time:** 7:00, Monday, Apr. 7th
