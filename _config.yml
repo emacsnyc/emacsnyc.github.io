@@ -1,5 +1,6 @@
 pygments: true
 lsi: false
+markdown: kramdown
 safe: true
 poole:
   word_separator: "-"
