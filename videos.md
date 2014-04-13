@@ -5,7 +5,29 @@ title: (emacs-nyc videos)
 
 ### Videos
 
-Once we've got a few videos from our talks, we'll be posting them here. There's nothing here yet, though!
+We record our talks and make them available here. Currently they're only available through YouTube, but we'll also have high-quality downloads available shortly.
+
+---
+
+### IRC With ERC
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/l5u-907zUB0" frameborder="0" allowfullscreen></iframe>
+
+[Eric Collins](http://tabfugni.cc)<br />
+<time datetime="2014-04-07">07 Apr 2014</time>
+
+> Internet Relay Chat (IRC) has been a popular P2P messaging system since 1988. Since it uses a text-based interface, it's a perfect fit for Emacs! We'll be looking at ERC, the built-in Emacs IRC client and the solution to all our social needs. ERC easily fits into anyone's workflow and has tons of libraries to make it even more seamless.
+
+### An Introduction to Emacs Lisp
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/2z-YBsd5snY" frameborder="0" allowfullscreen></iframe>
+
+[Harry Schwartz](http://harryrschwartz.com)<br />
+<time datetime="2014-04-07">07 Apr 2014</time>
+
+> Emacs can be thought of as a big Lisp interpreter, so you can't master Emacs without learning some Emacs Lisp. We'll be introducing Emacs Lisp by describing its simple syntax, demonstrating a few Lisp functions for manipulating buffers, regions, and strings, writing a few utility functions, and binding those functions to custom keys. By the end of the talk, you should able to do the same.
+
+This talk was also turned into a [blog post](http://harryrschwartz.com/2014/04/08/an-introduction-to-emacs-lisp.html).
 
 ---
 
