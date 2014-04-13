@@ -12,12 +12,10 @@ If you have any particular requirements or preferences, we'll do our best to sat
 Sometimes people are interested in giving a talk, but don't know what to talk *about.* If you're in that category, we've got a few suggestions for topics we'd love to learn about:
 
 * Demystifying terminal emulation: `shell` vs `term` vs `ansi-term` vs `eshell`
-* Chatting with IRC through `erc`
 * Designing and writing a color scheme
 * How does syntax highlighting work?
 * "Why my `org-mode` workflow is the best"
 * Setting up email: `offlineimap`, `gpg`, `authinfo` files, etc
-* An introduction to elisp
 * Writing your first mode
 * VCS and/or Magit
 * Emacs Speaks Statistics
@@ -40,5 +38,6 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * AUCTeX
 * Emacspeak
 * Remote pairing with Emacs
+* CEDET
 
 [email]: mailto:admin@emacsnyc.org
