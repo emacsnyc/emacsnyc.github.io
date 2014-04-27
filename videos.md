@@ -9,6 +9,8 @@ We record our talks and make them available here. You can watch them through You
 
 ---
 
+<a name="2014-04"></a>
+
 <iframe width="640" height="360" src="//www.youtube.com/embed/l5u-907zUB0" frameborder="0" allowfullscreen></iframe>
 
 **IRC With ERC**<br />
