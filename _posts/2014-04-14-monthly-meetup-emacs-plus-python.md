@@ -9,7 +9,7 @@ scheduled: 2014-05-05 18:30
 {% include time.html %}
 {% include location_soho_west.html %}
 
-We'll be starting at 6:30 with pizza and beer. Drew Werner will be giving a full-length talk, and we'll also have a lighting talk by Evan Misshula.
+We'll be starting at 6:30 with pizza and beer. Drew Werner will be giving a full-length talk, and we'll also have a lightning talk by Evan Misshula.
 
 Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.com/wernerandrew)) will be talking about using Emacs as a Python IDE:
 
