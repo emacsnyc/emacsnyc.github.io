@@ -5,6 +5,9 @@ date: 2014-03-26 10:27
 scheduled: 2014-04-07 19:00
 ---
 
+{% include time.html %}
+{% include location_bryant_park.html %}
+
 [Harry Schwartz] will be giving an introduction to Emacs Lisp:
 
 > Emacs can be thought of as a big Lisp interpreter, so you can't master Emacs without learning some Emacs Lisp. We'll be introducing Emacs Lisp by describing its simple syntax, demonstrating a few Lisp functions for manipulating buffers, regions, and strings, writing a few utility functions, and binding those functions to custom keys. By the end of the talk, you should able to do the same.
