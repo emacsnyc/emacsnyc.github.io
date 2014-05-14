@@ -1,7 +1,7 @@
 ---
 title: Monthly Meetup&mdash;Writing Games with Emacs
 layout: post
-date: 2014-05-06 22:05
+date: 2014-05-07 22:05
 
 scheduled: 2014-06-02 18:30
 ---
