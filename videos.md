@@ -9,6 +9,32 @@ We record our talks and make them available here. You can watch them through You
 
 ---
 
+<a name="2014-05"></a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/6BlTGPsjGJk" frameborder="0" allowfullscreen></iframe>
+
+**Emacs as a Python IDE**<br />
+Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.com/wernerandrew))<br />
+<time datetime="2014-05-05">05 May 2014</time>
+
+> With a little effort, Emacs can be a powerful, multi-language IDE with code completion, documentation lookup, and more. Taking Python as our language, we will show how to use the the auto-complete, epc, and jedi.el libraries to create a semantically rich editing experience. We’ll discuss how these libraries work together and how to customize them for your own setup.
+
+[download (349.7 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.mp4)
+
+---
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/dgcBKz03lK8" frameborder="0" allowfullscreen></iframe>
+
+**Upgrading IPython with Emacs**<br />
+[Evan Misshula](http://johnjayresearch.org/rec/)<br />
+<time datetime="2014-05-05">05 May 2014</time>
+
+> Evan will provide an introduction to incremental analysis through IPython moderated by the editing features of Emacs. A brief introduction to integrating with Org-mode will also be given. Advantages over the R console and Bash shell will be discussed.
+
+[download (197.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.mp4)
+
+---
+
 <a name="2014-04"></a>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/l5u-907zUB0" frameborder="0" allowfullscreen></iframe>
@@ -19,7 +45,7 @@ We record our talks and make them available here. You can watch them through You
 
 > Internet Relay Chat (IRC) has been a popular P2P messaging system since 1988. Since it uses a text-based interface, it's a perfect fit for Emacs! We'll be looking at ERC, the built-in Emacs IRC client and the solution to all our social needs. ERC easily fits into anyone's workflow and has tons of libraries to make it even more seamless.
 
-[download (255.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/irc-with-erc.mp4)
+[download (255.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/irc-with-erc.mp4)
 
 ---
 
@@ -33,7 +59,7 @@ We record our talks and make them available here. You can watch them through You
 
 This talk was also turned into a [blog post](http://harryrschwartz.com/2014/04/08/an-introduction-to-emacs-lisp.html).
 
-[download (528.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/an-introduction-to-emacs-lisp.mp4)
+[download (528.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/an-introduction-to-emacs-lisp.mp4)
 
 ---
 
