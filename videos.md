@@ -19,6 +19,8 @@ Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.
 
 > With a little effort, Emacs can be a powerful, multi-language IDE with code completion, documentation lookup, and more. Taking Python as our language, we will show how to use the the auto-complete, epc, and jedi.el libraries to create a semantically rich editing experience. We’ll discuss how these libraries work together and how to customize them for your own setup.
 
+Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/using-emacs-as-a-python-ide.pdf) available.
+
 [download (349.7 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.mp4)
 
 ---
