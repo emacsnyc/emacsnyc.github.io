@@ -33,6 +33,8 @@ Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/docu
 
 > Evan will provide an introduction to incremental analysis through IPython moderated by the editing features of Emacs. A brief introduction to integrating with Org-mode will also be given. Advantages over the R console and Bash shell will be discussed.
 
+Evan has made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/upgrading-ipython-with-emacs.org) (in `org-mode`!) available.
+
 [download (197.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.mp4)
 
 ---
