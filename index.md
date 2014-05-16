@@ -5,13 +5,11 @@ title: (emacs-nyc)
 
 ### We're the Emacs meetup in NYC!
 
-We get together once a month or so (we're currently aiming for the first Monday of the month). We have some pizza and drinks and listen to an Emacs-related talk or two. Fun times are had by all.
+We get together once a month or so (we're currently aiming for the first Monday of the month). We have some pizza and drinks and listen to an Emacs-related talk or two. Fun times are had by all. =)
 
 Talks are recorded. We post the videos on YouTube for streaming. We also release the [videos for download] in a free format.
 
 Announcements of new meetings and talk descriptions are posted on our [meetup.com group]. We also cross-post them here on our blog, if you prefer RSS and/or don't want to get a meetup.com account.
-
-Meetings take place at [thoughtbot]'s NYC office, which is currently located at the WeWork at 54 W. 40th St., right next to Bryant Park. We meet on the 10th floor.
 
 The group is sponsored by [thoughtbot], which provides the pizza, beer, and space.
 
