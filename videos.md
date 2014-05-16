@@ -49,6 +49,8 @@ Evan has made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents
 
 > Internet Relay Chat (IRC) has been a popular P2P messaging system since 1988. Since it uses a text-based interface, it's a perfect fit for Emacs! We'll be looking at ERC, the built-in Emacs IRC client and the solution to all our social needs. ERC easily fits into anyone's workflow and has tons of libraries to make it even more seamless.
 
+The awesome [Sacha Chua](http://sachachua.com/blog/) has contributed a [transcript of this talk](http://emacslife.com/transcripts/2014-04-07%20Emacs%20NYC%20-%20IRC%20with%20ERC%20-%20Eric%20Collins.html).
+
 [download (255.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/irc-with-erc.mp4)
 
 ---
