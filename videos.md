@@ -7,6 +7,22 @@ title: (emacs-nyc videos)
 
 We record our talks and make them available here. You can watch them through YouTube (which we appreciate for bandwidth reasons) or you can download a copy for offline use. Enjoy!
 
+----
+
+<a name="2014-06"></a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/gk39mp8Vy4M" frameborder="0" allowfullscreen></iframe>
+
+**Writing Games in Emacs**<br />
+[Zachary Kanfer](http://zck.me/)<br />
+<time datetime="2014-06-02">02 June 2014</time>
+
+> Games are a great way to get started writing programs in any language. In Emacs Lisp, they're even better—you use the same exact techniques to extend Emacs, configuring it to do what you want. In this presentation, I livecode tic-tac-toe. You'll see how to create a basic major mode, make functions, store state, and set keybindings.
+
+Zachary has posted his [code](http://zck.me/tictactoe/tictactoe.el).
+
+[download (475.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/writing-games-in-emacs.mp4)
+
 ---
 
 <a name="2014-06"></a>
