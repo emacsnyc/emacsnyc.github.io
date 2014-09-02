@@ -25,6 +25,8 @@ Perry Metzger<br />
 
 > Perry is (among other things) a programmer, a computer security consultant, and a doctoral student at the University of Pennsylvania. When he started using Emacs in 1983, it was still written in TECO, and portions of his Emacs init file date to 1985. He expects to still be using Emacs for decades to come.
 
+Perry has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/emacs-the-editor-of-a-lifetime.pdf) available.
+
 (download link forthcoming!)
 
 ---
