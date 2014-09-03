@@ -27,7 +27,7 @@ Perry Metzger<br />
 
 Perry has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/emacs-the-editor-of-a-lifetime.pdf) available.
 
-(download link forthcoming!)
+[download (786.2 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/editor-of-a-lifetime.mp4)
 
 ---
 
