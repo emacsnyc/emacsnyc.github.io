@@ -23,7 +23,8 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * `calc`: it can do, like, everything
 * Organizing people with PIM functionality: `org-contact`, `bbdb`, etc
 * Some advanced elisp techniques
-* Macros
+* Lisp macros
+* Advanced features of keyboard macros
 * Alternative extension languages
 * Nifty tricks with `dired`
 * Font management
