@@ -7,15 +7,33 @@ title: (emacs-nyc videos)
 
 We record our talks and make them available here. You can watch them through YouTube (which we appreciate for bandwidth reasons) or you can download a copy for offline use. Enjoy!
 
-----
+---
+
+<a name="2014-10"></a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/67dE1lfDs9k" frameborder="0" allowfullscreen></iframe>
+
+**Keyboard Macro Workshop**<br>
+[Jacob O'Donnell](http://www.jacobodonnell.com/)<br>
+<time datetime="2014-10-06">06 October 2014</time>
+
+> Keyboard macros are a powerful Emacs feature. A keyboard macro is simply a recording of a sequence of key sequences that can be played back and repeated. In this meetup we will first go over the different keyboard macro commands Emacs has to offer. In the second half of the meetup we will solve a couple repetitive text manipulation tasks using macros.
+
+If you'd like to get some directed practice using keyboard macros, Jacob hosts a [collection of sample exercises](http://emacs-macros.herokuapp.com/). We also mirror those exercises here in [.zip](/assets/documents/keyboard-macro-workshop-exercises.zip) or [.tar.gz](/assets/documents/keyboard-macro-workshop-exercises.tar.gz) formats, if you'd prefer.
+
+He's also made his [org slides](/assets/documents/keyboard-macro-workshop-notes.org) available.
+
+[download (329.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/keyboard-macro-workshop.mp4)
+
+---
 
 <a name="2014-08"></a>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/VADudzQGvU8" frameborder="0" allowfullscreen></iframe>
 
-**The Editor of a Lifetime**<br />
-Perry Metzger<br />
-<time datetime="2014-08-11">08 August 2014</time>
+**The Editor of a Lifetime**<br>
+Perry Metzger<br>
+<time datetime="2014-08-11">11 August 2014</time>
 
 > Perry Metzger has been using Emacs as his text editor since early September, 1983&mdash;nearly 31 years. Over much of that time, it has also been his primary way to read email, compile programs, and perform a variety of other tasks.
 
@@ -35,8 +53,8 @@ Perry has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/doc
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/zzbEjmlIET0" frameborder="0" allowfullscreen></iframe>
 
-**Emacs Mutant Anime Turtles: Impersonating Logo with Emacs Lisp**<br />
-Ray Puzio<br />
+**Emacs Mutant Anime Turtles: Impersonating Logo with Emacs Lisp**<br>
+Ray Puzio<br>
 <time datetime="2014-07-07">07 July 2014</time>
 
 > Ray will show us his implementation of turtle graphics in emacs and take us under the shell to see how it works. [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) are a way of drawing pictures in which one provides a series of directions such as "move forward" or "turn left" to steer the pen. (The name comes from the fact that the original implementation involved a robotic turtle as output device controlled by the computer.) In addition to providing a useful and entertaining program, this talk will also discuss techniques of pbm graphics and the use of a buffer for drawing which are of general use when doing graphics in emacs.
@@ -51,8 +69,8 @@ Ray has posted his [notes and code](http://emacsturtle.metameso.org).
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/gk39mp8Vy4M" frameborder="0" allowfullscreen></iframe>
 
-**Writing Games in Emacs**<br />
-[Zachary Kanfer](http://zck.me/)<br />
+**Writing Games in Emacs**<br>
+[Zachary Kanfer](http://zck.me/)<br>
 <time datetime="2014-06-02">02 June 2014</time>
 
 > Games are a great way to get started writing programs in any language. In Emacs Lisp, they're even better—you use the same exact techniques to extend Emacs, configuring it to do what you want. In this presentation, I livecode tic-tac-toe. You'll see how to create a basic major mode, make functions, store state, and set keybindings.
@@ -67,8 +85,8 @@ Zachary has posted his [code](http://zck.me/tictactoe/tictactoe.el).
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/PeVQwYUxYEg" frameborder="0" allowfullscreen></iframe>
 
-**Introduction to evil-mode**<br />
-[Bailey Ling](http://bling.github.io)<br />
+**Introduction to evil-mode**<br>
+[Bailey Ling](http://bling.github.io)<br>
 <time datetime="2014-06-02">02 June 2014</time>
 
 > Bailey will provide a lightning talk on evil-mode, aptly named after the editor of the beast. He'll show why evil-mode can make Vim veterans feel at home while exposing them to the power available in Emacs.
@@ -83,8 +101,8 @@ Bailey has made his [org slides](https://gist.github.com/bling/ab8b83c60686b3653
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/6BlTGPsjGJk" frameborder="0" allowfullscreen></iframe>
 
-**Emacs as a Python IDE**<br />
-Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.com/wernerandrew))<br />
+**Emacs as a Python IDE**<br>
+Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.com/wernerandrew))<br>
 <time datetime="2014-05-05">05 May 2014</time>
 
 > With a little effort, Emacs can be a powerful, multi-language IDE with code completion, documentation lookup, and more. Taking Python as our language, we will show how to use the the auto-complete, epc, and jedi.el libraries to create a semantically rich editing experience. We’ll discuss how these libraries work together and how to customize them for your own setup.
@@ -97,8 +115,8 @@ Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/docu
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/dgcBKz03lK8" frameborder="0" allowfullscreen></iframe>
 
-**Upgrading IPython with Emacs**<br />
-[Evan Misshula](http://johnjayresearch.org/rec/)<br />
+**Upgrading IPython with Emacs**<br>
+[Evan Misshula](http://johnjayresearch.org/rec/)<br>
 <time datetime="2014-05-05">05 May 2014</time>
 
 > Evan will provide an introduction to incremental analysis through IPython moderated by the editing features of Emacs. A brief introduction to integrating with Org-mode will also be given. Advantages over the R console and Bash shell will be discussed.
@@ -113,8 +131,8 @@ Evan has made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/l5u-907zUB0" frameborder="0" allowfullscreen></iframe>
 
-**IRC With ERC**<br />
-[Eric Collins](http://tabfugni.cc)<br />
+**IRC With ERC**<br>
+[Eric Collins](http://tabfugni.cc)<br>
 <time datetime="2014-04-07">07 Apr 2014</time>
 
 > Internet Relay Chat (IRC) has been a popular P2P messaging system since 1988. Since it uses a text-based interface, it's a perfect fit for Emacs! We'll be looking at ERC, the built-in Emacs IRC client and the solution to all our social needs. ERC easily fits into anyone's workflow and has tons of libraries to make it even more seamless.
@@ -127,8 +145,8 @@ The awesome [Sacha Chua](http://sachachua.com/blog/) has contributed a [transcri
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/2z-YBsd5snY" frameborder="0" allowfullscreen></iframe>
 
-**An Introduction to Emacs Lisp**<br />
-[Harry Schwartz](http://harryrschwartz.com)<br />
+**An Introduction to Emacs Lisp**<br>
+[Harry Schwartz](http://harryrschwartz.com)<br>
 <time datetime="2014-04-07">07 Apr 2014</time>
 
 > Emacs can be thought of as a big Lisp interpreter, so you can't master Emacs without learning some Emacs Lisp. We'll be introducing Emacs Lisp by describing its simple syntax, demonstrating a few Lisp functions for manipulating buffers, regions, and strings, writing a few utility functions, and binding those functions to custom keys. By the end of the talk, you should able to do the same.

@@ -1,0 +1,46 @@
+* Emacs Macros
+** What is a Macro
+*** A macro is a way to record your keystrokes and play them back.
+*** While you are defining your macro you are also executing it the first time
+*** Macros excel at text manipulation tasks
+**** Tend to be for more disposable tasks
+**** They are not very fast, and have no progress bar
+*** Macro replacements
+**** replace-string
+**** replace-regexp
+**** ELisp
+**** Snippets
+** Macro basics
+*** C-x (			  - kmacro-start-macro
+*** C-x )			  - kmacro-end-macro
+*** <F3>			  - kmacro-start-macro-or-insert-counter
+*** <F4>			  - kmacro-end-or-call-macro
+*** C-g				  - keyboard-quit
+*** C-x e			  - kmacro-end-and-call-macro
+**** You can just hit e again to repeat
+**** This command takes the universal argument (0) repeats for infinity
+*** C-u C-x C-( - kmacro-start-macro, allows you to append to the end of the last macro
+*** C-x C-k r	  - apply-macro-to-region-lines
+** How to think when writing a macro
+*** Be careful using movement commands/prefer search
+*** Look for patterns that should hold true every time
+*** Break your macro apart into multiple steps
+*** Make sure to end the macro in the same state as the beginning so it is repeatable
+** More macro commands
+*** Keyboard macro ring
+**** C-x C-k C-k - kmacro-end-or-call-macro-repeat
+**** C-x C-k C-n - kmacro-cycle-ring-next
+**** C-x C-k C-p - kmacro-cycle-ring-previous
+*** The Keyboard Macro Counter
+**** C-x C-k C-i - kmacro-insert-counter
+**** C-x C-k C-c - kmacro-set-counter
+**** C-x C-k C-a - kmacro-add-counter
+**** C-x C-k C-f - kmacro-set-format
+*** Naming and Saving Keyboard Macros
+**** C-x C-k n - kmacro-name-last-macro
+**** C-x C-k b - kmacro-bind-to-key
+**** insert-kbd-macro
+*** Editing a Keyboard Macro
+**** C-x C-k C-e          - kmacro-edit-macro
+**** C-x C-k e NAME <RET> - edit-kbd-macro
+**** C-x C-k <SPC>        - kmacro-step-edit-macro
