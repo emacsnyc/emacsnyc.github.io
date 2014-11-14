@@ -38,7 +38,7 @@ We record our talks and make them available here. You can watch them through You
 
 Evan has [posted his slides].
 
-(download link forthcoming!)
+[download (963.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/org-mode-for-reproducible-research.mp4)
 
 [Wikipedia]: http://en.wikipedia.org/wiki/Reproducibility#Reproducible_research
 [47 out of 53 medical research papers on the subject of cancer were irreproducible]: http://www.nature.com/nature/journal/v483/n7391/full/483531a.html
