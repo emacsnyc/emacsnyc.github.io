@@ -9,6 +9,24 @@ We record our talks and make them available here. You can watch them through You
 
 ---
 
+<a name="2014-12"></a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/Lq-yKJFHJpk" frameborder="0" allowfullscreen></iframe>
+
+**A Pretty Good Introduction to Pretty Good Privacy**<br>
+[George Brocklehurst](http://www.georgebrock.com/)<br>
+<time datetime="2014-12-08">08 December 2014</time>
+
+> What's PGP, and what can we do with it? George walks us through
+> creating and uploading a key, encrypting and signing emails, git
+> commits, and files, and introduces the web of trust.
+
+George has [posted his slides](https://georgebrock.github.io/talks/pretty-good-introduction/).
+
+[download (98.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/a-pretty-good-introduction-to-pretty-good-privacy.mp4)
+
+---
+
 <a name="2014-11"></a>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/CGnt_PWoM5Y" frameborder="0" allowfullscreen></iframe>
