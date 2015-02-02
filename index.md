@@ -5,6 +5,8 @@ title: (emacs-nyc)
 
 ### We're the Emacs meetup in NYC!
 
+<img src="/assets/images/logo-small.png" alt="EmacsNYC Logo">
+
 We get together once a month or so (we're currently aiming for the first Monday of the month). We have some pizza and drinks and listen to an Emacs-related talk or two. Fun times are had by all. =)
 
 Talks are recorded. We post the videos on YouTube for streaming. We also release the [videos for download] in a free format.
