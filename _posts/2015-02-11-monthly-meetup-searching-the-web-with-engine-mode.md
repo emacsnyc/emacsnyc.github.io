@@ -2,12 +2,19 @@
 title: Monthly Meetup&mdash;Searching the Web with engine-mode
 layout: post
 date: 2015-02-11 14:57
-
 scheduled: 2015-03-02 18:30
 ---
 
 {% include time.html %}
 {% include location_soho_west.html %}
+
+[Jonathan Magen] will be presenting *How I Use org-capture and Stuff*:
+
+> Org-capture is a great way to take notes and plan in Emacs. Capture
+> templates provide a flexible way to extend org-capture and
+> personalize the way you record various bits of information. This
+> talk will cover how Jonathan uses org-capture and provide an intro
+> to writing your own org-capture templates.
 
 [Harry Schwartz] will be presenting on *Searching the Web with
 engine-mode*:
@@ -26,5 +33,6 @@ engine-mode*:
 > easy!) and then digging into the implementation and discussing the
 > process of committing a package to MELPA.
 
+[Jonathan Magen]: http://yonkeltron.com/
 [Harry Schwartz]: http://harryrschwartz.com
 [engine-mode]: http://github.com/hrs/engine-mode
