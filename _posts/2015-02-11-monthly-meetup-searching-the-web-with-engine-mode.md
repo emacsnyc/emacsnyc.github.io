@@ -6,7 +6,7 @@ scheduled: 2015-03-02 18:30
 ---
 
 {% include time.html %}
-{% include location_soho_west.html %}
+{% include location_bryant_park.html %}
 
 [Jonathan Magen] will be presenting *How I Use org-capture and Stuff*:
 
