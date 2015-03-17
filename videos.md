@@ -9,6 +9,51 @@ We record our talks and make them available here. You can watch them through You
 
 ---
 
+<a name="2015-03"></a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/MBhJBMYfWUo" frameborder="0" allowfullscreen></iframe>
+
+**Searching the web with engine-mode**<br>
+[Harry Schwartz](http://harryrschwartz.com)<br>
+<time datetime="2015-03-02">02 March 2015</time>
+
+> I probably spend about 75% of my programming time looking up
+> documentation. That's really easy in Emacs Lisp---my documentation
+> is built into my editor---but in most other languages I'm not so
+> lucky.
+
+> I wrote [engine-mode](http://github.com/hrs/engine-mode) to help fix
+> this problem. It's a simple minor mode that lets me define arbitrary
+> search engines and send snippets of text to them from within
+> Emacs. Now I don't have to copy and paste text between my browser
+> and editor! So fancy.
+
+> We'll be talking about how to get started with engine-mode (it's
+> easy!) and then digging into the implementation and discussing the
+> process of committing a package to MELPA.
+
+[download (151.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/searching-the-web-with-engine-mode.mp4)
+
+---
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/KdcXu_RdKI0" frameborder="0" allowfullscreen></iframe>
+
+**How I Use org-capture and Stuff**<br>
+[Jonathan Magen](http://yonkeltron.com/)<br>
+<time datetime="2015-03-02">02 March 2015</time>
+
+> Org-capture is a great way to take notes and plan in Emacs. Capture
+> templates provide a flexible way to extend org-capture and
+> personalize the way you record various bits of information. This
+> talk will cover how Jonathan uses org-capture and provide an intro
+> to writing your own org-capture templates.
+
+Jonathan has [made his slides available](/assets/documents/how-i-use-org-capture-and-stuff.pdf).
+
+[download (133.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/how-i-use-org-capture-and-stuff.mp4)
+
+---
+
 <a name="2014-12"></a>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Lq-yKJFHJpk" frameborder="0" allowfullscreen></iframe>
