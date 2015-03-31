@@ -178,7 +178,7 @@ Ray has posted his [notes and code](http://emacsturtle.metameso.org).
 
 Zachary has posted his [code](http://zck.me/tictactoe/tictactoe.el).
 
-[download (475.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/writing-games-in-emacs.mp4)
+[download (475.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/writing-games-with-emacs.mp4)
 
 ---
 
