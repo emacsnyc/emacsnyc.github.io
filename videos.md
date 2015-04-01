@@ -32,7 +32,8 @@ We record our talks and make them available here. You can watch them through You
 > easy!) and then digging into the implementation and discussing the
 > process of committing a package to MELPA.
 
-[download (151.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/searching-the-web-with-engine-mode.mp4)
+[WebM (28.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/searching-the-web-with-engine-mode.webm) |
+[MP4 (151.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/searching-the-web-with-engine-mode.mp4)
 
 ---
 
@@ -50,7 +51,8 @@ We record our talks and make them available here. You can watch them through You
 
 Jonathan has [made his slides available](/assets/documents/how-i-use-org-capture-and-stuff.pdf).
 
-[download (133.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/how-i-use-org-capture-and-stuff.mp4)
+[WebM (29.8 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/how-i-use-org-capture-and-stuff.webm) |
+[MP4 (133.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/how-i-use-org-capture-and-stuff.mp4)
 
 ---
 
@@ -68,7 +70,8 @@ Jonathan has [made his slides available](/assets/documents/how-i-use-org-capture
 
 George has [posted his slides](https://georgebrock.github.io/talks/pretty-good-introduction/).
 
-[download (98.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/a-pretty-good-introduction-to-pretty-good-privacy.mp4)
+[WebM (75.9 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/a-pretty-good-introduction-to-pretty-good-privacy.webm) |
+[MP4 (98.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/a-pretty-good-introduction-to-pretty-good-privacy.mp4)
 
 ---
 
@@ -101,7 +104,8 @@ George has [posted his slides](https://georgebrock.github.io/talks/pretty-good-i
 
 Evan has [posted his slides].
 
-[download (963.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/org-mode-for-reproducible-research.mp4)
+[WebM (131.2 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/org-mode-for-reproducible-research.webm) |
+[MP4 (963.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/org-mode-for-reproducible-research.mp4)
 
 [Wikipedia]: http://en.wikipedia.org/wiki/Reproducibility#Reproducible_research
 [47 out of 53 medical research papers on the subject of cancer were irreproducible]: http://www.nature.com/nature/journal/v483/n7391/full/483531a.html
@@ -124,7 +128,8 @@ If you'd like to get some directed practice using keyboard macros, Jacob hosts a
 
 He's also made his [org slides](/assets/documents/keyboard-macro-workshop-notes.org) available.
 
-[download (329.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/keyboard-macro-workshop.mp4)
+[WebM (49.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/keyboard-macro-workshop.webm) |
+[MP4 (329.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/keyboard-macro-workshop.mp4)
 
 ---
 
@@ -146,7 +151,8 @@ Perry Metzger<br>
 
 Perry has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/emacs-the-editor-of-a-lifetime.pdf) available.
 
-[download (786.2 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/editor-of-a-lifetime.mp4)
+[WebM (117.9 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/editor-of-a-lifetime.webm) |
+[MP4 (786.2 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/editor-of-a-lifetime.mp4)
 
 ---
 
@@ -162,7 +168,8 @@ Ray Puzio<br>
 
 Ray has posted his [notes and code](http://emacsturtle.metameso.org).
 
-[download (293.6 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/turtle-graphics-with-emacs-lisp.mp4)
+[WebM (52.6 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/turtle-graphics-with-emacs-lisp.webm) |
+[MP4 (293.6 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/turtle-graphics-with-emacs-lisp.mp4)
 
 ---
 
@@ -178,7 +185,8 @@ Ray has posted his [notes and code](http://emacsturtle.metameso.org).
 
 Zachary has posted his [code](http://zck.me/tictactoe/tictactoe.el).
 
-[download (475.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/writing-games-with-emacs.mp4)
+[WebM (72.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/writing-games-with-emacs.webm) |
+[MP4 (475.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/writing-games-with-emacs.mp4)
 
 ---
 
@@ -194,7 +202,8 @@ Zachary has posted his [code](http://zck.me/tictactoe/tictactoe.el).
 
 Bailey has made his [org slides](https://gist.github.com/bling/ab8b83c60686b3653828) available.
 
-[download (392 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/introduction-to-evil-mode.mp4)
+[WebM (65.9 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/introduction-to-evil-mode.webm) |
+[MP4 (392 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/introduction-to-evil-mode.mp4)
 
 ---
 
@@ -210,7 +219,8 @@ Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.
 
 Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/using-emacs-as-a-python-ide.pdf) available.
 
-[download (349.7 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.mp4)
+[WebM (80.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.webm) |
+[MP4 (349.7 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.mp4)
 
 ---
 
@@ -224,7 +234,8 @@ Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/docu
 
 Evan has made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/upgrading-ipython-with-emacs.org) (in `org-mode`!) available.
 
-[download (197.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.mp4)
+[WebM (40.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.webm) |
+[MP4 (197.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.mp4)
 
 ---
 
@@ -240,7 +251,8 @@ Evan has made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents
 
 The awesome [Sacha Chua](http://sachachua.com/blog/) has contributed a [transcript of this talk](http://emacslife.com/transcripts/2014-04-07%20Emacs%20NYC%20-%20IRC%20with%20ERC%20-%20Eric%20Collins.html).
 
-[download (255.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/irc-with-erc.mp4)
+[WebM (59.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/irc-with-erc.webm) |
+[MP4 (255.4 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/irc-with-erc.mp4)
 
 ---
 
@@ -254,7 +266,8 @@ The awesome [Sacha Chua](http://sachachua.com/blog/) has contributed a [transcri
 
 This talk was also turned into a [blog post](http://harryrschwartz.com/2014/04/08/an-introduction-to-emacs-lisp.html), and the [source code](https://gist.github.com/hrs/d187c8652951897da9ac) is available.
 
-[download (528.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/an-introduction-to-emacs-lisp.mp4)
+[WebM (131.9 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/an-introduction-to-emacs-lisp.webm) |
+[MP4 (528.5 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/an-introduction-to-emacs-lisp.mp4)
 
 ---
 
