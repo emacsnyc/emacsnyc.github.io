@@ -1,9 +1,7 @@
 ---
 title: Monthly Meetup&mdash;31 Years of Emacs
-layout: post
+layout: announcement
 date: 2014-08-04 10:45
-
-
 scheduled: 2014-08-11 18:30
 ---
 

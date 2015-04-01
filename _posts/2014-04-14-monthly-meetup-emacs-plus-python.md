@@ -1,6 +1,6 @@
 ---
 title: Monthly Meetup&mdash;Emacs + Python
-layout: post
+layout: announcement
 date: 2014-04-14 14:43
 
 scheduled: 2014-05-05 18:30

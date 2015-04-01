@@ -1,8 +1,7 @@
 ---
 title: Upgrading IPython with Emacs
-layout: post
+layout: video
 date: 2014-05-05
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/dgcBKz03lK8" frameborder="0" allowfullscreen></iframe>

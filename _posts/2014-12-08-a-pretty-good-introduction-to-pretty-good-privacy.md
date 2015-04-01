@@ -1,8 +1,7 @@
 ---
 title: A Pretty Good Introduction to Pretty Good Privacy
-layout: post
+layout: video
 date: 2014-12-08
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Lq-yKJFHJpk" frameborder="0" allowfullscreen></iframe>

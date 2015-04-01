@@ -1,8 +1,7 @@
 ---
 title: Monthly Meetup&mdash;Org-mode for Reproducible Research
-layout: post
+layout: announcement
 date: 2014-10-07 14:13
-
 scheduled: 2014-11-03 18:30
 ---
 

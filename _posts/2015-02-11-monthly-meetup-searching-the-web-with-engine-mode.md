@@ -1,6 +1,6 @@
 ---
 title: Monthly Meetup&mdash;Searching the Web with engine-mode
-layout: post
+layout: announcement
 date: 2015-02-11 14:57
 scheduled: 2015-03-02 18:30
 ---

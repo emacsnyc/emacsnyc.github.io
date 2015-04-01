@@ -1,6 +1,6 @@
 ---
 title: Gettin' Started!
-layout: post
+layout: announcement
 date: 2014-03-14 18:17
 ---
 

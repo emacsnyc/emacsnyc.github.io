@@ -1,8 +1,7 @@
 ---
 title: Impersonating Logo with Emacs Lisp
-layout: post
+layout: video
 date: 2014-07-07
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/zzbEjmlIET0" frameborder="0" allowfullscreen></iframe>

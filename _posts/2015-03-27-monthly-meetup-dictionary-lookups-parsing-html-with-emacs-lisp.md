@@ -1,6 +1,6 @@
 ---
 title: Monthly Meetup&mdash;Dictionary Lookups&mdash;Parsing HTML with Emacs Lisp
-layout: post
+layout: announcement
 date: 2015-03-27 16:14
 scheduled: 2015-04-06 18:30
 ---

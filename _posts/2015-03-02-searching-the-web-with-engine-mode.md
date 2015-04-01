@@ -1,8 +1,7 @@
 ---
 title: Searching the Web with engine-mode
-layout: post
+layout: video
 date: 2015-03-02
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/MBhJBMYfWUo" frameborder="0" allowfullscreen></iframe>

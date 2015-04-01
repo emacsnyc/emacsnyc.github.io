@@ -1,8 +1,7 @@
 ---
 title: The Editor of a Lifetime
-layout: post
+layout: video
 date: 2014-08-11
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/VADudzQGvU8" frameborder="0" allowfullscreen></iframe>

@@ -1,9 +1,7 @@
 ---
 title: Monthly Meetup&mdash;Impersonating Logo with Emacs Lisp
-layout: post
+layout: announcement
 date: 2014-06-11 10:07
-
-
 scheduled: 2014-07-07 18:30
 ---
 

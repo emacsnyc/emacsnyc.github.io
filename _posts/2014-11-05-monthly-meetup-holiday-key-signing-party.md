@@ -1,9 +1,7 @@
 ---
 title: Monthly Meetup&mdash;Holiday Key Signing Party
-layout: post
+layout: announcement
 date: 2014-11-05 18:47
-
-
 scheduled: 2014-12-08 18:30
 ---
 

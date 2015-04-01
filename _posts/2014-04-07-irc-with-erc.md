@@ -1,8 +1,7 @@
 ---
 title: IRC with ERC
-layout: post
+layout: video
 date: 2014-04-07
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/l5u-907zUB0" frameborder="0" allowfullscreen></iframe>

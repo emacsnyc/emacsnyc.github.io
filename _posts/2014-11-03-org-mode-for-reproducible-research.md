@@ -1,8 +1,7 @@
 ---
 title: Org-mode for Reproducible Research
-layout: post
+layout: video
 date: 2014-11-03
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/CGnt_PWoM5Y" frameborder="0" allowfullscreen></iframe>

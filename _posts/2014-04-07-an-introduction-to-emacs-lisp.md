@@ -1,8 +1,7 @@
 ---
 title: An Introduction to Emacs Lisp
-layout: post
+layout: video
 date: 2014-04-07
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/2z-YBsd5snY" frameborder="0" allowfullscreen></iframe>

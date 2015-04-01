@@ -1,8 +1,7 @@
 ---
 title: Keyboard Macro Workshop
-layout: post
+layout: video
 date: 2014-10-06
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/67dE1lfDs9k" frameborder="0" allowfullscreen></iframe>

@@ -1,8 +1,7 @@
 ---
 title: Writing Games in Emacs
-layout: post
+layout: video
 date: 2014-06-02
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/gk39mp8Vy4M" frameborder="0" allowfullscreen></iframe>

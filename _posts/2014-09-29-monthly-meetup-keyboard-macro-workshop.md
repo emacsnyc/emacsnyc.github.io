@@ -1,8 +1,7 @@
 ---
 title: Monthly Meetup&mdash;Keyboard Macro Workshop
-layout: post
+layout: announcement
 date: 2014-09-29 10:04
-
 scheduled: 2014-10-06 18:30
 ---
 

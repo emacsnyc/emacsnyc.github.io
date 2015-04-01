@@ -1,8 +1,7 @@
 ---
 title: Emacs as a Python IDE
-layout: post
+layout: video
 date: 2014-05-05
-tags: [video]
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/6BlTGPsjGJk" frameborder="0" allowfullscreen></iframe>

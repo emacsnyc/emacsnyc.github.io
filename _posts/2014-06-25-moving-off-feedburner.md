@@ -1,8 +1,7 @@
 ---
 title: Moving Off Feedburner
-layout: post
+layout: announcement
 date: 2014-06-25 10:14
-
 ---
 
 As part of an ongoing process of de-Googling, we're moving the RSS feed off of Feedburner.
