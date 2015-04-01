@@ -149,7 +149,7 @@ Perry Metzger<br>
 
 > Perry is (among other things) a programmer, a computer security consultant, and a doctoral student at the University of Pennsylvania. When he started using Emacs in 1983, it was still written in TECO, and portions of his Emacs init file date to 1985. He expects to still be using Emacs for decades to come.
 
-Perry has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/emacs-the-editor-of-a-lifetime.pdf) available.
+Perry has also made his [slides](/assets/documents/emacs-the-editor-of-a-lifetime.pdf) available.
 
 [WebM (117.9 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/editor-of-a-lifetime.webm) |
 [MP4 (786.2 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/editor-of-a-lifetime.mp4)
@@ -217,7 +217,7 @@ Drew Werner ([twitter](https://twitter.com/wernerdrew), [github](https://github.
 
 > With a little effort, Emacs can be a powerful, multi-language IDE with code completion, documentation lookup, and more. Taking Python as our language, we will show how to use the the auto-complete, epc, and jedi.el libraries to create a semantically rich editing experience. We’ll discuss how these libraries work together and how to customize them for your own setup.
 
-Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/using-emacs-as-a-python-ide.pdf) available.
+Drew has also made his [slides](/assets/documents/using-emacs-as-a-python-ide.pdf) available.
 
 [WebM (80.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.webm) |
 [MP4 (349.7 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/emacs-as-a-python-ide.mp4)
@@ -232,7 +232,7 @@ Drew has also made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/docu
 
 > Evan will provide an introduction to incremental analysis through IPython moderated by the editing features of Emacs. A brief introduction to integrating with Org-mode will also be given. Advantages over the R console and Bash shell will be discussed.
 
-Evan has made his [slides](https://s3-us-west-2.amazonaws.com/emacsnyc/documents/upgrading-ipython-with-emacs.org) (in `org-mode`!) available.
+Evan has made his [slides](/assets/documents/upgrading-ipython-with-emacs.org) (in `org-mode`!) available.
 
 [WebM (40.1 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.webm) |
 [MP4 (197.3 MB)](https://s3-us-west-2.amazonaws.com/emacsnyc/videos/upgrading-ipython-with-emacs.mp4)
