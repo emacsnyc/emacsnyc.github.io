@@ -10,8 +10,8 @@ Yeah. It's not. We might do a refactor one of these days!
 
 #### Licensing and stuff
 
-Feel free to fork this repo and use it to help bootstrap your our
-meetup! It's licensed as [CC SA-BY 4.0], so you can build on it and
+Feel free to fork this repo and use it to help bootstrap your own
+meetup! It's licensed as [CC BY-SA 4.0], so you can build on it and
 tweak it to your heart's content so long as you release your changes,
 too.
 
