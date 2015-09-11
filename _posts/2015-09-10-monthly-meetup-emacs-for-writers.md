@@ -3,7 +3,7 @@ title: Monthly Meetup&mdash;Emacs for Writers
 layout: announcement
 date: 2015-09-10 14:43
 
-scheduled: 2014-05-05 18:30
+scheduled: 2015-09-14 18:30
 ---
 
 {% include time.html %}
