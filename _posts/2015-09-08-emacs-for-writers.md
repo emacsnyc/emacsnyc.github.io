@@ -12,7 +12,7 @@ date: 2015-09-08
 
 > Jay discusses how he uses Emacs as a non-programmer, and how Emacs has makes him a more productive writer, editor, and researcher.
 
-WebM (Coming soon) |
+[WebM (108.3 MB)](https://s3.amazonaws.com/emacsnyc-talks/Jay+Dixit+-+Emacs+For+Writers.webm) |
 [MP4 (834.4 MB)](https://s3.amazonaws.com/emacsnyc-talks/Jay+Dixit+-+Emacs+For+Writers.mp4)
 
 [Jay Dixit]: http://jaydixit.com/
