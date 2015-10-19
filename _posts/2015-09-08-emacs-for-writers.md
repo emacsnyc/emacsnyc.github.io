@@ -10,7 +10,7 @@ date: 2015-09-08
 
 > Jay Dixit is a science writer whose work has appeared in The New York Times, Rolling Stone, and Psychology Today.
 
-> Jay discusses how he uses Emacs as a non-programmer, and how Emacs has makes him a more productive writer, editor, and researcher.
+> Jay discusses how he uses Emacs as a non-programmer, and how Emacs makes him a more productive writer, editor, and researcher.
 
 [WebM (108.3 MB)](https://s3.amazonaws.com/emacsnyc-talks/Jay+Dixit+-+Emacs+For+Writers.webm) |
 [MP4 (834.4 MB)](https://s3.amazonaws.com/emacsnyc-talks/Jay+Dixit+-+Emacs+For+Writers.mp4)
