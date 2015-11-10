@@ -11,6 +11,10 @@ scheduled: 2015-12-07 18:30
 
 As usual, we'll be starting at 6:30 with pizza and beer!
 
-Diego Berrocal is a Recurser at the Recurse Center and he will be teaching us how to order salad using Emacs
+Diego Berrocal [website] [twitter] [github] is a Recurser at the Recurse Center and he will be teaching us how to order salad using Emacs
 
 >I have been eating exclusively salads the past few weeks, and I have been using emacs for programming that whole time.  It was about time I merged those interests together. I'll show how I used the request.el library and dash.el to have a more functional paradigm.
+
+[website]: http://cestdiego.github.io
+[twitter]: https://twitter.com/Cestdiego
+[github]: https://github.com/Deigor1901
