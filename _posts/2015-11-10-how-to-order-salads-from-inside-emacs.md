@@ -16,5 +16,5 @@ Diego Berrocal [website][1] [twitter][2] [github][3] is a Recurser at the Recurs
 >I have been eating exclusively salads the past few weeks, and I have been using emacs for programming that whole time.  It was about time I merged those interests together. I'll show how I used the request.el library and dash.el to have a more functional paradigm.
 
 [1]: http://cestdiego.github.io
-[2]: https://twitter.com/Cestdiego
-[3]: https://github.com/Deigor1901
+[2]: https://twitter.com/Deigor1901
+[3]: https://github.com/Cestdiego
