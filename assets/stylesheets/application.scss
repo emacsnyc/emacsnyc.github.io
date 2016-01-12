@@ -1,3 +1,10 @@
+---
+# Jekyll must have these bars at the top of this file in order to understand what to do with Sass. ¯\_(ツ)_/¯
+---
+
+@import "bourbon/bourbon";
+@import "base/base";
+
 body {
   padding: 50px;
   font: 16px/1.8 Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
