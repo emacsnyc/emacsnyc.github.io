@@ -1,0 +1,30 @@
+.emacs-logo {
+  @include margin($small-spacing null);
+  svg {
+    @include size(350px 147px);
+  }
+}
+
+.emacs-logo-background {
+  fill: tint($base-background-color, 5%);
+}
+
+.emacs-logo-ACE {
+  fill: $blue;
+}
+
+.emacs-logo-font {
+  fill: white;
+}
+
+.emacs-logo-M {
+  fill: $orange;
+}
+
+.emacs-logo-S {
+  fill: $medium-gray;
+}
+
+.emacs-logo-S-fold {
+  fill: $light-gray;
+}

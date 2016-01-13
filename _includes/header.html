@@ -1,15 +1,15 @@
 <header>
-  <h1><a href="/">New York Emacs Meetup</a></h1>
-
-  {% include latest_post.html %}
-
-  <ul class="nav">
-    <li><a href="/blog.html">announcements</a></li>
-    <li><a href="/videos.html">recorded talks</a></li>
-    <li><a href="/giving-a-talk.html">give a talk!</a></li>
-    <li><a href="http://www.meetup.com/New-York-Emacs-Meetup/">meetup.com group</a></li>
-    <li><a href="https://github.com/emacsnyc">github</a></li>
-    <li><a href="mailto:admin@emacsnyc.org">email</a></li>
-    <li><a href="/atom.xml">RSS</a></li>
-  </ul>
+  <nav class="main-nav">
+    <ul>
+      <li><a href="/">home</a>
+      <li><a href="/blog.html">announcements</a></li>
+      <li><a href="/videos.html">recorded talks</a></li>
+      <li><a href="/giving-a-talk.html">give a talk!</a></li>
+      <li><a href="http://www.meetup.com/New-York-Emacs-Meetup/" target ="_blank">meetup.com group</a></li>
+      <li><a href="https://github.com/emacsnyc" target ="_blank">github</a></li>
+      <li><a href="mailto:admin@emacsnyc.org">email</a></li>
+      <li><a href="/atom.xml">RSS</a></li>
+    </ul>
+  </nav>
+  <marquee>{% include latest_post.html %}</marquee>
 </header>

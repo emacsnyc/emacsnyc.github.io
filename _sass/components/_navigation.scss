@@ -1,0 +1,21 @@
+.main-nav {
+  @include position(fixed, null 0 0 0);
+  background-color: $red;
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    @include padding(null $small-spacing);
+    color: $base-background-color;
+
+    &:active,
+    &:focus,
+    &:hover
+     {
+      background-color: $base-background-color;
+      color: $base-font-color;
+    }
+  }
+}

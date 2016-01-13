@@ -8,6 +8,7 @@
     <link href="http://feeds.feedburner.com/emacsnyc" rel="alternate" title="(emacs-nyc)" type="application/atom+xml" />
 
     <link rel="stylesheet" href="/assets/stylesheets/vendor/normalize.css" />
+    <link rel="stylesheet" href="/assets/stylesheets/fonts.css" />
     <link rel="stylesheet" href="/assets/stylesheets/application.css" />
     <link rel="stylesheet" href="/assets/stylesheets/vendor/pygment_trac.css" />
     <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
@@ -21,12 +22,13 @@
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   </head>
   <body>
-    <div id="wrapper">
-      {% include header.html %}
-      <section id="content">
-        {{ content }}
-      </section>
-    </div>
+    {% include header.html %}
+    <main>
+      <div class="emacs-logo">
+        {% include emacs-logo.svg %}
+      </div>
+      {{ content }}
+    </main>
     <script src="/assets/javascripts/scale.fix.js"></script>
   </body>
 </html>

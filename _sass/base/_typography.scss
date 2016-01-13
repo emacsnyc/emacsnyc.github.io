@@ -1,4 +1,9 @@
+html {
+  font-size: 18px;
+}
+
 body {
+  background-color: $base-background-color;
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: $base-font-size;
@@ -24,12 +29,12 @@ p {
 a {
   color: $action-color;
   text-decoration: none;
-  transition: color $base-duration $base-timing;
 
   &:active,
   &:focus,
   &:hover {
-    color: shade($action-color, 25%);
+    background-color: shade($orange, 15%);
+    color: $base-background-color;
   }
 }
 
@@ -46,3 +51,29 @@ picture {
   margin: 0;
   max-width: 100%;
 }
+
+blockquote {
+  border-left: 1px solid $light-gray;
+  font-style: italic;
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+code, pre {
+  background-color: tint($secondary-background-color, 50%);
+  color: $base-background-color;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size: 12px;
+}
+
+code {
+  @include padding(null $small-spacing/2);
+}
+
+pre {
+  border-radius: 5px;
+  border: $base-border;
+  overflow-x:  auto;
+  padding: 8px 15px;
+}
+

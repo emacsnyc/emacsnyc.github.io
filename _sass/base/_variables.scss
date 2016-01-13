@@ -1,9 +1,9 @@
 // Typography
-$base-font-family: $helvetica;
+$base-font-family: "inconsolata", courier;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 1em;
+$base-font-size: 1rem;
 
 // Line height
 $base-line-height: 1.5;
@@ -13,25 +13,31 @@ $heading-line-height: 1.2;
 $base-border-radius: 3px;
 $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
+$large-spacing: $base-spacing * 2;
 $base-z-index: 0;
 
 // Colors
-$blue: #1565c0;
+$blue: #076aa7;
+$orange: #f7941d;
+$red: #bf5f60;
+$green: #a3be8c;
+$teal: #96b5b4;
+$purple: #b48ead;
 $dark-gray: #333;
-$medium-gray: #999;
-$light-gray: #ddd;
-
-// Font Colors
-$base-font-color: $dark-gray;
-$action-color: $blue;
+$medium-gray: #807f7f;
+$light-gray: #cccbcb;
 
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: #fff;
-$secondary-background-color: tint($base-border-color, 75%);
+$base-background-color: #1e1e1e;
+$secondary-background-color: tint($base-background-color, 65%);
+
+// Font Colors
+$base-font-color: tint($base-background-color, 65%);
+$action-color: $blue;
 
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
