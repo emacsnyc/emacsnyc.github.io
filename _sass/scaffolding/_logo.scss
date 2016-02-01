@@ -1,7 +1,19 @@
 .emacs-logo {
   @include margin($small-spacing null);
-  svg {
-    @include size(350px 147px);
+  @include size(350px 147px);
+
+  .emacs-logo-fallback {
+    display: none;
+  }
+
+  .no-inlinesvg & {
+    svg {
+      display: none;
+    }
+
+    .emacs-logo-fallback {
+      display: block;
+    }
   }
 }
 
