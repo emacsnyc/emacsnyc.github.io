@@ -1,6 +1,8 @@
 main {
   margin: 0 auto;
   overflow: auto;
-  padding-bottom: $large-spacing;
-  width: 700px;
+  padding-bottom: $large-spacing * 2;
+  padding-left: $small-spacing;
+  padding-right: $small-spacing;
+  max-width: 700px;
 }
