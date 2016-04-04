@@ -1,4 +1,5 @@
 require 'yaml'
+require './lib/post_creator'
 
 task default: :new
 
@@ -27,4 +28,25 @@ end
 desc 'List all tags currently used.'
 task :tags do
   puts metadata.map { |md| md['tags'] }.flatten.compact.uniq.sort
+end
+
+namespace :new do
+  desc "Create a new announcement"
+  task :announcement, [:title] do |t, args|
+    PostCreator.new(title: args.title, layout: "announcement").create
+  end
+
+  task :monthly_meetup, [:title] do |t, args|
+    PostCreator.new(
+      title: "Monthly Meetup&mdash;#{args.title}",
+      layout: "announcement",
+      content:
+
+    ).create
+  end
+
+  desc "Create a new video post"
+  task :video, [:title] do |t, args|
+    PostCreator.new(title: args.title, layout: "video").create
+  end
 end
