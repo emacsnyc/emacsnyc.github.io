@@ -1,8 +1,7 @@
 ---
 layout: announcement
-title: Monthly Meetup&mdash;sqlup.el: the story of the minor mode that could
+title: Monthly Meetup&mdash;sqlup.el&colon; the story of the minor mode that could
 date: 2016-04-04 17:27:19
-
 scheduled: 2016-06-06 18:30
 ---
 
