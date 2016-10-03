@@ -15,9 +15,10 @@ The group is sponsored by [thoughtbot], which provides the pizza, beer, and spac
 
 ### Who's doing this?
 
-We're [Eric] and Zachary, a couple of developers and Emacs enthusiasts.
+We're [Eric] and [Zachary], a couple of developers and Emacs enthusiasts.
 
 [videos for download]: /videos.html
 [meetup.com group]: http://www.meetup.com/New-York-Emacs-Meetup/
 [Eric]: http://www.tabfugni.cc
 [thoughtbot]: http://thoughtbot.com
+[Zachary]: http://zck.me
