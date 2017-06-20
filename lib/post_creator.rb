@@ -12,12 +12,13 @@ class PostCreator
       File.open(path, "w") do |file|
         file.write content
       end
+      puts "Created new post: #{filename}"
     end
   end
 
   private
 
-  attr_reader :title, :layout
+  attr_reader :title, :layout, :body
 
   def path
     File.join("_posts", filename)
