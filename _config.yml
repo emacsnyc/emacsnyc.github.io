@@ -1,4 +1,4 @@
-pygments: true
+highlighter: true
 lsi: false
 markdown: kramdown
 safe: true
