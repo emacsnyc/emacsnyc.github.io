@@ -1,15 +1,15 @@
 class PostCreator
-  def initialize(title:, layout:, content: nil)
+  def initialize(title:, layout:, body: nil)
     @title = title
     @layout = layout
-    @content = content
+    @body = body
   end
 
   def create
     if File.exist? path
       raise RuntimeError.new("Won't clobber #{path}")
     else
-      File.open(path, 'w') do |file|
+      File.open(path, "w") do |file|
         file.write content
       end
     end
@@ -29,9 +29,9 @@ class PostCreator
 
   def fileized_title
     title.
-      gsub(/[\s.]/, '-').
-      gsub(/:/, '').
-      gsub(/&\w+;/, '-').
+      gsub(/[\s.]/, "-").
+      gsub(/:/, "").
+      gsub(/&\w+;/, "-").
       downcase
   end
 
@@ -43,7 +43,7 @@ title: #{title}
 date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
 ---
 
-#{content}
+#{body}
 EOS
   end
 end
