@@ -40,8 +40,6 @@ namespace :new do
     PostCreator.new(
       title: "Monthly Meetup&mdash;#{args.title}",
       layout: "announcement",
-      content:
-
     ).create
   end
 
