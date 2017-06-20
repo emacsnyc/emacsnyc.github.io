@@ -5,7 +5,7 @@ date: 2017-06-20 11:10:06
 scheduled: 2017-07-10 18:30
 ---
 
-{% include time.html }
+{% include time.html %}
 {% include location_thoughtbot.html %}
 
 Ray Puzio will be presenting *A Tour of Arxana*
