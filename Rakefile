@@ -43,8 +43,38 @@ namespace :new do
     ).create
   end
 
+  task :hack_night do
+    PostCreator.new(
+      title: "Monthly Meetup&mdash;Hack Night",
+      layout: "announcement",
+      body: HACK_NIGHT,
+    ).create
+  end
+
+  task :lightning_talks do
+    PostCreator.new(
+      title: "Monthly Meetup&mdash;Hack Night",
+      layout: "announcement",
+      body: LIGHTNING_TALKS,
+    ).create
+  end
+
   desc "Create a new video post"
   task :video, [:title] do |t, args|
     PostCreator.new(title: args.title, layout: "video").create
   end
 end
+
+HACK_NIGHT = <<-BODY
+{% include time.html %}
+{% include location_thoughtbot.html %}
+
+{% include hacknight.html %}
+BODY
+
+LIGHTNING_TALKS = <<-BODY
+{% include time.html %}
+{% include location_thoughtbot.html %}
+
+{% include lightning_talks.html %}
+BODY
