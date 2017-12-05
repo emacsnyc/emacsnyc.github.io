@@ -1,6 +1,9 @@
-{% assign latest_post = site.posts | first %}
+{% assign current_date = 'now' | date: "%Y-%m-%d" %}
+{% assign future_scheduled_posts = site.posts | where_exp: "post", "post.scheduled > current_date" %}
+{% assign latest_scheduled_post = future_posts | sort: "scheduled", "last" | first %}
+{% assign latest_post = site.post | first %}
 
-{% if latest_post.scheduled %}
+{% if latest_scheduled_post %}
 <p>
   Next event:
   <a href="{{ BASE_PATH }}{{ latest_post.url }}">{{ latest_post.title }}</a>,
