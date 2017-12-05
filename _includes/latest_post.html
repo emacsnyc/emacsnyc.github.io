@@ -6,8 +6,8 @@
 {% if latest_scheduled_post %}
 <p>
   Next event:
-  <a href="{{ BASE_PATH }}{{ latest_post.url }}">{{ latest_post.title }}</a>,
-  {{ latest_post.scheduled | date_to_string }}
+  <a href="{{ BASE_PATH }}{{ latest_scheduled_post.url }}">{{ latest_scheduled_post.title }}</a>,
+  {{ latest_scheduled_post.scheduled | date_to_string }}
 </p>
 {% else %}
 <p>
