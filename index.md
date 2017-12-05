@@ -5,13 +5,13 @@ title: (emacs-nyc)
 
 ### We're the Emacs meetup in NYC!
 
-We get together the first Monday of every month. We have some pizza and drinks and listen to an Emacs-related talk or two. Fun times are had by all. =)
+We get together the first Monday of every month. We have some food, drinks, and Emacs related activities. Fun times are had by all. =)
 
-Talks are recorded. We post the videos on YouTube for streaming. We also release the [videos for download] in a free format.
+Longer talks are recorded with the consent of the speaker. We post the videos on YouTube for streaming. We also release the [videos for download] in a free format.
 
 Announcements of new meetings and talk descriptions are posted on our [meetup.com group]. We also cross-post them here on our blog, if you prefer RSS and/or don't want to get a meetup.com account.
 
-The group is sponsored by [thoughtbot], which provides the pizza, beer, and space.
+The group is sponsored by [thoughtbot], which provides the food, beer, and space.
 
 ### Who's doing this?
 
