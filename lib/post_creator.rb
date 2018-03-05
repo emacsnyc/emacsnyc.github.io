@@ -25,7 +25,7 @@ class PostCreator
   end
 
   def filename
-    "#{Time.current.strftime('%Y-%m-%d')}-#{fileized_title}.md"
+    "#{Time.now.strftime('%Y-%m-%d')}-#{fileized_title}.md"
   end
 
   def fileized_title
@@ -41,7 +41,7 @@ class PostCreator
 ---
 layout: #{layout}
 title: #{title}
-date: #{Time.current.strftime('%Y-%m-%d %k:%M:%S')}
+date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
 ---
 
 #{body}
