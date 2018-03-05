@@ -53,7 +53,7 @@ namespace :new do
 
   task :lightning_talks do
     PostCreator.new(
-      title: "Monthly Meetup&mdash;Hack Night",
+      title: "Monthly Meetup&mdash;Lightning Talks",
       layout: "announcement",
       body: LIGHTNING_TALKS,
     ).create
