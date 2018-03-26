@@ -6,6 +6,9 @@ date: 2018-03-23  9:36:27
 scheduled: 2018-04-02 18:30
 ---
 
+{% include time.html %}
+{% include location_thoughtbot.html %}
+
 Rocky Bernstein will be talking about compiling Emacs Lisp into
 bytecode where he will be talking about its value and its
 limitations. Focusing primarily on the Emacs bytecode runtime. He'll
