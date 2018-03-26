@@ -15,7 +15,7 @@ limitations. Focusing primarily on the Emacs bytecode runtime. He'll
 then compare it to other implementations compilation of elisp bytecode
 such as [Emacs in Rust].
 
-Rocky Bernstein[github] a long time emacs user, a prolific developer,
+Rocky Bernstein [github] a long time emacs user, a prolific developer,
 and heavily involved in the free software community. He wrote and
 maintains [realgud] and he has written the only [Emacs Bytecode Manual].
 
