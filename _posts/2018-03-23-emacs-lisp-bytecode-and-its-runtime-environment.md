@@ -21,5 +21,5 @@ Lisp Bytecode]
 
 [github]: https://github.com/rocky
 [realgud]: https://github.com/realgud/realgud
-[Emacs Bytecode Manual]: https://github.com/rocky/elisp-bytecode
+[Emacs Lisp Bytecode]: https://github.com/rocky/elisp-bytecode
 [Emacs in Rust]: https://github.com/Wilfred/remacs
