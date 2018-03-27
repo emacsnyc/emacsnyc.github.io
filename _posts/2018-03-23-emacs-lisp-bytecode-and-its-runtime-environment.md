@@ -9,15 +9,15 @@ scheduled: 2018-04-02 18:30
 {% include time.html %}
 {% include location_thoughtbot.html %}
 
-Rocky Bernstein will be talking about compiling Emacs Lisp into
-bytecode where he will be talking about its value and its
-limitations. Focusing primarily on the Emacs bytecode runtime. He'll
-then compare it to other implementations compilation of elisp bytecode
-such as [Emacs in Rust].
+Rocky Bernstein will talk about what bytecode is, its value, and its
+limitations. Focusing primarily on the Emacs bytecode runtime, he’ll
+compare it to other implementations of elisp bytecode, such as [Emacs in
+Rust]
 
-Rocky Bernstein [github] a long time emacs user, a prolific developer,
-and heavily involved in the free software community. He wrote and
-maintains [realgud] and he has written the only [Emacs Bytecode Manual].
+Rocky Bernstein ([github]) is a long time emacs user, prolific
+developer, and is heavily involved in the free software community. He
+wrote and maintains [realgud] and literally wrote the book on [Emacs
+Lisp Bytecode]
 
 [github]: https://github.com/rocky
 [realgud]: https://github.com/realgud/realgud
