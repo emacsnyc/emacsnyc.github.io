@@ -3,7 +3,7 @@ layout: announcement
 title: Monthly Meetup&mdash;Emacs Lisp Bytecode and its runtime environment
 date: 2018-03-23  9:36:27
 
-scheduled: 2018-04-02 18:30
+scheduled: 2018-04-09 18:30
 ---
 
 {% include time.html %}
