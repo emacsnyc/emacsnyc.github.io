@@ -18,4 +18,4 @@ Aldric [website][github] will be giving a talk about creating sqlup, creating mi
 > I've approached the creation of sqlup.el and some of the choices I've
 > made.
 
-[github]: github.com/trevoke
+[github]: https://github.com/trevoke
