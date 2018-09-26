@@ -31,11 +31,12 @@ task :tags do
 end
 
 namespace :new do
-  desc "Create a new announcement"
+  desc "Create a new generic announcement"
   task :announcement, [:title] do |t, args|
     PostCreator.new(title: args.title, layout: "announcement").create
   end
 
+  desc "Create announcment for monthly meetup"
   task :monthly_meetup, [:title] do |t, args|
     PostCreator.new(
       title: "Monthly Meetup&mdash;#{args.title}",
@@ -43,6 +44,7 @@ namespace :new do
     ).create
   end
 
+  desc "Create announcment for monthly meetup specific to hack night"
   task :hack_night do
     PostCreator.new(
       title: "Monthly Meetup&mdash;Hack Night",
@@ -51,6 +53,7 @@ namespace :new do
     ).create
   end
 
+  desc "Create announcment for monthly meetup specific to lightning talks"
   task :lightning_talks do
     PostCreator.new(
       title: "Monthly Meetup&mdash;Lightning Talks",
