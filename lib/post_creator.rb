@@ -2,6 +2,7 @@ require "date"
 
 class PostCreator
   MONDAY_INTEGER = 1
+  DAYS_IN_WEEK = 7
 
   def initialize(title:, layout:, body: nil)
     @title = title
@@ -41,8 +42,17 @@ class PostCreator
   end
 
   def possible_scheduled_day
-    initial_day = Date.new(2018, Date.today.next_month.month)
-    initial_day + (initial_day.wday + MONDAY_INTEGER)
+    first_day_of_following_month +
+      (DAYS_OF_WEEK - first_day_of_following_month.wday + MONDAY_INTEGER) %
+      DAYS_OF_WEEK
+  end
+
+  def first_day_of_following_month
+    Date.new(today.year, today.next_month.month)
+  end
+
+  def today
+    Date.today
   end
 
   def content
@@ -51,7 +61,7 @@ class PostCreator
 layout: #{layout}
 title: #{title}
 date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
-scheduled: #{possible_scheduled_day.strftime('%Y-%m-%d')} 18:30
+scheduled: #{possible_scheduled_day.strftime('%Y-%m-%d')} 19:00
 ---
 
 #{body}
