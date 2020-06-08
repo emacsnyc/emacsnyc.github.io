@@ -1,5 +1,7 @@
-require 'yaml'
-require './lib/post_creator'
+# frozen_string_literal: true
+
+require "yaml"
+require "./lib/post_creator"
 
 task default: :new
 
@@ -25,21 +27,31 @@ end
 
 ####################
 
-desc 'List all tags currently used.'
+desc "List all tags currently used."
 task :tags do
-  puts metadata.map { |md| md['tags'] }.flatten.compact.uniq.sort
+  puts metadata.map { |md| md["tags"] }.flatten.compact.uniq.sort
 end
+
+MONTHLY_MEETUP = "Monthly Online Meetup".freeze
 
 namespace :new do
   desc "Create a new generic announcement"
-  task :announcement, [:title] do |t, args|
+  task :announcement, [:title] do |_, args|
     PostCreator.new(title: args.title, layout: "announcement").create
   end
 
   desc "Create announcment for monthly meetup"
-  task :monthly_meetup, [:title] do |t, args|
+  task :monthly_meetup, [:title] do |_, args|
     PostCreator.new(
-      title: "Monthly Meetup&mdash;#{args.title}",
+      title: [MONTHLY_MEETUP, args.title].join("&mdash;"),
+      layout: "announcement",
+    ).create
+  end
+
+  desc "Create announcment for monthly meetup"
+  task :discussion, [:title] do |_, args|
+    PostCreator.new(
+      title: "Online Meetup&mdash;Discussion:#{args.title}",
       layout: "announcement",
     ).create
   end
@@ -47,7 +59,7 @@ namespace :new do
   desc "Create announcment for monthly meetup specific to hack night"
   task :hack_night do
     PostCreator.new(
-      title: "Monthly Meetup&mdash;Hack Night",
+      title: [MONTHLY_MEETUP, "Hack Night"].join("&mdash;"),
       layout: "announcement",
       body: HACK_NIGHT,
     ).create
@@ -56,28 +68,28 @@ namespace :new do
   desc "Create announcment for monthly meetup specific to lightning talks"
   task :lightning_talks do
     PostCreator.new(
-      title: "Monthly Meetup&mdash;Lightning Talks",
+      title: [MONTHLY_MEETUP, "Lightning Talks"].join("&mdash;"),
       layout: "announcement",
       body: LIGHTNING_TALKS,
     ).create
   end
 
   desc "Create a new video post"
-  task :video, [:title] do |t, args|
+  task :video, [:title] do |_, args|
     PostCreator.new(title: args.title, layout: "video").create
   end
 end
 
-HACK_NIGHT = <<-BODY
-{% include time.html %}
-{% include location_thoughtbot.html %}
+HACK_NIGHT = <<~BODY
+  {% include time.html %}
+  {% include location_online.html %}
 
-{% include hacknight.html %}
+  {% include hacknight.html %}
 BODY
 
-LIGHTNING_TALKS = <<-BODY
-{% include time.html %}
-{% include location_thoughtbot.html %}
+LIGHTNING_TALKS = <<~BODY
+  {% include time.html %}
+  {% include location_online.html %}
 
-{% include lightning_talks.html %}
+  {% include lightning_talks.html %}
 BODY
