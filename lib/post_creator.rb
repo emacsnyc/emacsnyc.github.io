@@ -43,8 +43,8 @@ class PostCreator
 
   def possible_scheduled_day
     first_day_of_following_month +
-      (DAYS_OF_WEEK - first_day_of_following_month.wday + MONDAY_INTEGER) %
-      DAYS_OF_WEEK
+      (DAYS_IN_WEEK - first_day_of_following_month.wday + MONDAY_INTEGER) %
+      DAYS_IN_WEEK
   end
 
   def first_day_of_following_month
@@ -62,6 +62,7 @@ layout: #{layout}
 title: #{title}
 date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
 scheduled: #{possible_scheduled_day.strftime('%Y-%m-%d')} 19:00
+signup_form_url: <<fill in sign in form url if necessary>>
 ---
 
 #{body}
