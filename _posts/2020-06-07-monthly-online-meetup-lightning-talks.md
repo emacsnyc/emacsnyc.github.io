@@ -9,4 +9,4 @@ signup_form_url: https://etherpad.wikimedia.org/p/Emacs-NYC-lightning-talks-July
 {% include time.html %}
 {% include location_online.html %}
 
-{% include lightning_talks.html %}
+{% include signup_lightning_talks.html %}

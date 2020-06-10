@@ -91,5 +91,5 @@ LIGHTNING_TALKS = <<~BODY
   {% include time.html %}
   {% include location_online.html %}
 
-  {% include lightning_talks.html %}
+  {% include signup_lightning_talks.html %}
 BODY
