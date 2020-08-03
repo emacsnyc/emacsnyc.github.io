@@ -1,7 +1,7 @@
 ---
 layout: announcement
 title: Looking Beyond New York, Please Join Us
-date: 2020-07-06 20:53:56
+date: 2020-08-03 12:18:00
 ---
 
 Due to an unforeseen pandemic, our group has moved to be online
