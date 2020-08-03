@@ -23,7 +23,7 @@ I would encourage you to reach out directly and join us at our next
 meetup. Your help and involvement can help us grow and make a more
 vibrant and exciting community.
 
-This is important to us and it is important that as our community does
-grow that we maintain a safe and inclusive community that welcomes
-people from all backgrounds. For those joining, please review our [code
-of conduct](https://github.com/emacsnyc/meeting-logistics/blob/master/code-of-conduct.md)
+It is important that as our community does grow that we maintain a
+safe and inclusive community that welcomes people from all
+backgrounds. For those joining, please review our [code of
+conduct](https://github.com/emacsnyc/meeting-logistics/blob/master/code-of-conduct.md)
