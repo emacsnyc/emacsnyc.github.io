@@ -1,15 +1,13 @@
 ---
-layout: announcement
-title: Monthly Online Meetup&mdash;Bring Your Text to Life the Easy Way with GNU Hyperbole
-date: 2020-07-22 22:37:26
-scheduled: 2020-08-03 19:00
+layout: video
+title: Bring Your Text to Life the Easy Way with GNU Hyperbole
+date: 2020-08-13 22:25:09
 ---
 
-{% include time.html %}
-{% include location_online.html %}
-{% include intro.html %}
+<iframe width="640" height="360" src="//www.youtube.com/embed/nC1eTgZE1oA" frameborder="0" allowfullscreen></iframe>
 
----
+[WebM (225.2 MB)](https://emacsnyc-talks.s3.amazonaws.com/hyperbole_robert_weiner.webm) |
+[MP4 (403.5 MB)](https://emacsnyc-talks.s3.amazonaws.com/hyperbole_robert_weiner.mp4)
 
 A talk by the author, Bob Weiner
 
