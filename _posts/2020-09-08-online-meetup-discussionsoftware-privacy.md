@@ -1,6 +1,6 @@
 ---
 layout: announcement
-title: Online Meetup&mdash;Discussion: Software Privacy
+title: 'Online Meetup&mdash;Discussion: Software Privacy'
 date: 2020-09-08 23:21:52
 scheduled: 2020-09-14 19:00
 ---
