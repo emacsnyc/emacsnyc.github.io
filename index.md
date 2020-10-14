@@ -11,8 +11,6 @@ Longer talks are recorded with the consent of the speaker. We post the videos on
 
 Announcements of new meetings and talk descriptions are posted on our [meetup.com group]. We also cross-post them here on our blog, if you prefer RSS and/or don't want to get a meetup.com account.
 
-The group is sponsored by [thoughtbot], which provides the food, beer, and space.
-
 ### Who's doing this?
 
 We're [Eric] and [Zachary], a couple of developers and Emacs enthusiasts.
