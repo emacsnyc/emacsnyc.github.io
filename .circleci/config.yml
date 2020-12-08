@@ -1,0 +1,16 @@
+version: 2.1
+orbs:
+  ruby: circleci/ruby@1.1.2
+
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.7.1
+    executor: ruby/default
+    steps:
+      - checkout
+      - ruby/install-deps
+
+      - run:
+          name: Build Jekyll
+          command: bundle exec jekyll build
