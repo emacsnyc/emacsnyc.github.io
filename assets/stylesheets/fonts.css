@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'inconsolata';
-  src: url('../assets/fonts/inconsolata-webfont.eot');
-  src: url('../assets/fonts/inconsolata-webfont.eot?#iefix') format('embedded-opentype'),
-       url('../assets/fonts/inconsolata-webfont.woff2') format('woff2'),
-       url('../assets/fonts/inconsolata-webfont.woff') format('woff'),
-       url('../assets/fonts/inconsolata-webfont.ttf') format('truetype'),
-       url('../assets/fonts/inconsolata-webfont.svg#inconsolata') format('svg');
+  src: url('../fonts/inconsolata-webfont.eot');
+  src: url('../fonts/inconsolata-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/inconsolata-webfont.woff2') format('woff2'),
+       url('../fonts/inconsolata-webfont.woff') format('woff'),
+       url('../fonts/inconsolata-webfont.ttf') format('truetype'),
+       url('../fonts/inconsolata-webfont.svg#inconsolata') format('svg');
   font-weight: normal;
   font-style: normal;
 }
