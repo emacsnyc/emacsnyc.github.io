@@ -4,6 +4,11 @@ title: Monthly Online Meetup&mdash;Managing email with mu4e and Other Software
 date: 2021-02-28 21:50:16
 scheduled: 2021-03-01 19:00
 ---
+{% include time.html %}
+{% include location_online.html %}
+{% include intro.html %}
+
+---
 Managing Email with mu4e and Other Software
 
 A talk by Eric Collins, Founder/Organizer of EmacsNYC and Senior
