@@ -1,6 +1,6 @@
 <p>
   <date datetime="{{ page.scheduled }}">
     {{ page.scheduled | date:"%A, %b %-d, %Y" }}<br />
-    {{ page.scheduled | date:"%-I:%M %p" }}
+    {{ page.scheduled | date:"%-I:%M %p %Z (GMT%z)" }}
   </date>
 </p>
