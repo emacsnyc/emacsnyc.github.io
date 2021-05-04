@@ -2,5 +2,6 @@ highlighter: rouge
 lsi: false
 markdown: kramdown
 safe: true
+timezone: America/New_York
 poole:
   word_separator: "-"
