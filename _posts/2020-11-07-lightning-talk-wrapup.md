@@ -26,7 +26,7 @@ community uses Emacs. You can find more information and fill it out at
 
 ### Qiantan Hong -- crdt.el, a collaborative environment
 
-Quintan spoke about crdt.el, a project which enables collaboration
+Qiantan spoke about crdt.el, a project which enables collaboration
 through shared editing sessions. Check it out
 [here](https://code.librehq.com/qhong/crdt.el). This project uses
 algorithms from the Conflict-free Replicated Data Types family. A talk
@@ -35,10 +35,10 @@ about this can be viewed
 
 ### Qiantan Hong -- reflexive-music, an experimental music environment with Emacs as frontend
 
-Quintan presented reflexive-music, an environment to create music
+Qiantan presented reflexive-music, an environment to create music
 through code. He ended his presentation with a live concert. He was
 inspired by Ivan Wyshnegradsky, a Russian composer known for his
-microtonal compositions. Contact Quintan to encourage him to publish
+microtonal compositions. Contact Qiantan to encourage him to publish
 his code!
 
 ### Zachary Kanfer -- Composing Electronic Music in Emacs
