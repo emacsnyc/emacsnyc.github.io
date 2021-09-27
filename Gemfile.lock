@@ -227,7 +227,7 @@ GEM
     minitest (5.14.4)
     mr_poole (0.8.0)
     multipart-post (2.1.1)
-    nokogiri (1.12.4)
+    nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     octokit (4.21.0)
