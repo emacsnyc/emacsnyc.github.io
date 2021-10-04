@@ -3,6 +3,7 @@ layout: announcement
 title: Online Meetup&mdash;Discussion:Remote Collaboration Software and crtd.el
 date: 2021-09-23 23:47:45
 scheduled: 2021-10-04 19:00
+conference_url: https://bbb.emacsverse.org/b/eri-4ol-yqd-7wq
 ---
 
 {% include time.html %}
