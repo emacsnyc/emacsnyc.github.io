@@ -6,8 +6,8 @@ date: 2021-09-20 22:53:58
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Qq6s3PwSwjo" frameborder="0" allowfullscreen></iframe>
 
-[WebM (157.1)](https://emacsnyc-talks.s3.amazonaws.com/march-2021/managing-email-in-emacs-with-mu4e-eric-collins.webm) |
-[MP4 (306.4)](https://emacsnyc-talks.s3.amazonaws.com/march-2021/managing-email-in-emacs-with-mu4e-eric-collins.mp4)
+[WebM (157.1 MB)](https://emacsnyc-talks.s3.amazonaws.com/march-2021/managing-email-in-emacs-with-mu4e-eric-collins.webm) |
+[MP4 (306.4 MB)](https://emacsnyc-talks.s3.amazonaws.com/march-2021/managing-email-in-emacs-with-mu4e-eric-collins.mp4)
 
 A talk by Eric Collins
 
