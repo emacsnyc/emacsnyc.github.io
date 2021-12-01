@@ -1,6 +1,6 @@
 ---
 layout: announcement
-title: Online Meetup&mdash;Discussion: Is VSCode Better?
+title: "Online Meetup&mdash;Discussion: Is VSCode Better?"
 date: 2021-11-01 20:58:48
 scheduled: 2021-12-06 19:00
 conference_url: https://bbb.emacsverse.org/b/eri-1pn-lzy-r83
