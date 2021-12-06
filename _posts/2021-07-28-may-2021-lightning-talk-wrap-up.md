@@ -14,7 +14,7 @@ Can sync via Dropbox, iCloud, WebDAV, Box
 References Getting Things Done methodology(https://gettingthingsdone.com/what-is-gtd/)
 
 
-### Zachary Kanfer(Transient Key Maps)
+### Zachary Kanfer - Transient Key Maps
 Maintain a certain state
 After calling set-transient-map something
 Any keypress that is within the map will call the function associated
